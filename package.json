@@ -1,0 +1,21 @@
+{
+  "name": "ipsem6",
+  "version": "1.0.0",
+  "description": "devloopment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0",
+    "session": "^0.1.0"
+  }
+}
